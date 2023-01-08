@@ -4,7 +4,6 @@ body {
 /* Navigation Bar */
 #home{
     background-color:#7600bc;
-
     padding-bottom: 1cm;
     margin-left:-1cm;
     margin-right:-1cm;
@@ -332,4 +331,26 @@ body {
     height: fit-content;
     vertical-align: middle;
     margin: 5px;
+  }
+
+  .contactme{
+    float:center;
+    color: lightgray;
+    margin: 10px;
+    text-align:center;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration:none;
+    padding-bottom: 1cm;
+    margin-left:-1cm;
+    margin-right:-1cm;
+    margin-top:-1cm;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    height: 2mm;
+    
+  }
+
+  .git {
+    margin-left:140mm;
   }
