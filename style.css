@@ -342,7 +342,7 @@ body {
     font-size: 20px;
     text-decoration:none;
     padding-bottom: 1cm;
-    margin-left:-1cm;
+    margin-left:20cm;
     margin-right:-1cm;
     margin-top:-1cm;
     padding-top: 2cm;
@@ -350,7 +350,28 @@ body {
     height: 2mm;
     
   }
-
+  .certificate{
+    mergin:2px;
+    
+    align-items: center;
+    justify-content: center;
+  }
+  .s1{
+    margin-left:2mm;
+  }
+  .s2{
+    margin:2mm;
+    float:right;
+  }
+ .g{
+   margin-left:10mm;
+ }
   .git {
     margin-left:140mm;
+  }
+  .s{
+    margin-left:20mm;
+  }
+  .s1{
+    margin-left:40mm;
   }
