@@ -352,7 +352,7 @@ body {
   }
   .certificate{
     mergin:2px;
-    
+    display: flex;
     align-items: center;
     justify-content: center;
   }
@@ -360,8 +360,8 @@ body {
     margin-left:2mm;
   }
   .s2{
-    margin:2mm;
-    float:right;
+    margin-left:135mm;
+    
   }
  .g{
    margin-left:10mm;
